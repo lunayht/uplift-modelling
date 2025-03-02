@@ -1,5 +1,7 @@
 # Uplift Modelling
 
+[![CodeFactor](https://www.codefactor.io/repository/github/lunayht/uplift-modelling/badge)](https://www.codefactor.io/repository/github/lunayht/uplift-modelling) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 This repository contains the code for various uplift modelling algorithms, including:
 
 - S-learner
