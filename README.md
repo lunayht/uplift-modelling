@@ -20,7 +20,7 @@ By definition, there will be four possible outcomes based on a response to a tre
 3. Lost Cause
 4. Do Not Disturb
 
-In practice, the actual definition of these outcomes may vary depending on the hypothesis. : When predicting uplift score and selecting a segment by the highest score, we are trying to find the only one type of customer: persuadable in revenue uplift or do not disturb in churn uplift.
+In practice, the actual definition of these outcomes may vary depending on the hypothesis. When predicting uplift score and selecting a segment by the highest score, we are trying to find the only one type of customer: persuadable in revenue uplift or do not disturb in churn uplift.
 
 ## Acknowledgements
 

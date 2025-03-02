@@ -1,0 +1,10 @@
+scikit-learn
+scikit-uplift
+pandas
+matplotlib
+seaborn
+numpy
+lightgbm
+optuna
+shap
+plotly
