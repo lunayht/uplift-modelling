@@ -1,4 +1,4 @@
-# Uplift Modelling 
+# Uplift Modelling
 
 This repository contains the code for various uplift modelling algorithms, including:
 
@@ -9,7 +9,7 @@ This repository contains the code for various uplift modelling algorithms, inclu
 
 ## What is uplift modelling?
 
-Uplift modelling is a causal inference technique that predicts the incremental impact of a treatment on an individual's behaviour, which allows businesses to target only those customers who are likely to respond positively to a treatment. This can be used to improve the effectiveness of marketing campaigns, reduce costs, and increase revenue. 
+Uplift modelling is a causal inference technique that predicts the incremental impact of a treatment on an individual's behaviour, which allows businesses to target only those customers who are likely to respond positively to a treatment. This can be used to improve the effectiveness of marketing campaigns, reduce costs, and increase revenue.
 
 ## Difference between revenue uplift and churn uplift
 
@@ -22,7 +22,7 @@ By definition, there will be four possible outcomes based on a response to a tre
 
 In practice, the actual definition of these outcomes may vary depending on the hypothesis. : When predicting uplift score and selecting a segment by the highest score, we are trying to find the only one type of customer: persuadable in revenue uplift or do not disturb in churn uplift.
 
-# Acknowledgements
+## Acknowledgements
 
 1. [Causal Infernce for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 2. [Sklift](https://www.uplift-modeling.com/en/latest/user_guide/introduction/index.html)
